@@ -1,8 +1,10 @@
-[![MasterHead](https://newrelic.com/sites/default/files/2021-04/good-programmer-banner-final.jpg)]
+<img aling="center" alt="Coding" hight="200" src="https://newrelic.com/sites/default/files/2021-04/good-programmer-banner-final.jpg">
 <h1 align="left">Hi 👋, I'm Oksana</h1>
 <h3 align="left">I am junior FullStack Developer</h3>
-<img aling="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
+<div style="aling: right">
+  <img  alt="Coding" width="300" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ksushavin&label=Profile%20views&color=0e75b6&style=flat" alt="ksushavin" /> </p>
 
 - 🌱 I’m currently learning **React Native**
